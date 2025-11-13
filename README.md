@@ -1,15 +1,14 @@
-CVIPTOOLS
-CVIPTOOLS is a comprehensive toolkit for computer vision and image processing research, development, and education. This project provides a suite of algorithms and utilities to handle common image analysis tasks, enabling efficient experimentation and prototyping.
+# CVIPTOOLS
 
-Features
-Image filtering and enhancement
+CVIPTOOLS is an all-in-one toolkit for computer vision and image processing. This project helps students and researchers experiment with a wide range of image analysis methods using an easy-to-use interface and scripts.
 
-Edge detection and feature extraction
+This software is developed by the Computer Vision and Image Processing (CVIP) Laboratory at Southern Illinois University Edwardsville (SIUE).
 
-Morphological operations
+## Features
 
-Color processing and transformations
+- Image filtering and enhancement
+- Edge detection and feature extraction
+- Morphological and geometric operations
+- Color processing and conversions
+- Batch processing of image files
 
-Geometric transformations
-
-Utility scripts for batch processing of images
